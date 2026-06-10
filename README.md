@@ -21,7 +21,7 @@ El sistema está diseñado para dos audiencias:
 
 1. **Navega al directorio del proyecto:**
    ```bash
-   cd viz
+   cd mc1-2026
    ```
 
 2. **Inicia un servidor HTTP local** (necesario para cargar módulos ES6 y archivos JSON):
@@ -57,7 +57,7 @@ La publicación servirá el contenido tal como está, incluyendo `index.html`, `
 ## 📁 Estructura del proyecto
 
 ```
-viz/
+mc1-2026/
 ├── index.html              # Página principal con layout de 3 columnas
 ├── README.md               # Este archivo
 ├── MC1_final_00.json       # Dataset oficial del Mini Challenge 1
